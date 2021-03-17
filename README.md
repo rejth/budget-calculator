@@ -2,8 +2,4 @@
 
 https://ilyakirsanov.ru/budget-calc/
 
-**Калькулятор бюджета (Budget Calculator)**  
-Учебный проект для практики JavaScript
-
-**Технологии:**  
-Браузерный JavaScript Native, ООП
+Simple budget calculator for JavaScript and DOM API learning purpose
